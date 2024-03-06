@@ -1,1 +1,1 @@
-ansible-playbook -i hosts.ini ./ansible/playbooks/setup.yml
+ansible-playbook -i hosts.ini ./src/playbooks/setup.yml
